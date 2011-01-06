@@ -10,7 +10,7 @@ To install copy the *images*, *javascripts*, and *stylesheets* directories into 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="/javascript/raphael.js" type="text/javascript"></script>
+    <script src="/javascript/raphael.min.js" type="text/javascript"></script>
     <script src="/javascript/raphael.analytics.js" type="text/javascript"></script>
 
 Examples
