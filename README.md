@@ -68,4 +68,4 @@ Setting up a analytics is easy. The following snippet is a good start:
 Copyright
 ---------
 
-Copyright (c) 2010 Kevin Sylvestre. See LICENSE for details.
+Copyright (c) 2010 - 2011 Kevin Sylvestre. See LICENSE for details.
